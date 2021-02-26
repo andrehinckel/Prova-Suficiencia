@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\andre.hinckel\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\andre.hinckel\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Prova-Suficiencia.-773885795.00" t="ExcludeRecursive" />
+    <e p="C:\Users\andre.hinckel\RiderProjects\Prova-Suficiencia" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Prova-Suficiencia" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CSVHelper" t="Include">
+          <e p="PassageiroCSV.cs" t="Include" />
+          <e p="ViagemCSV.cs" t="Include" />
+        </e>
+        <e p="Entidades" t="Include">
+          <e p="Empresa.cs" t="Include" />
+          <e p="Estudante.cs" t="Include" />
+          <e p="Idoso.cs" t="Include" />
+          <e p="Intermunicipal.cs" t="Include" />
+          <e p="Municipal.cs" t="Include" />
+          <e p="Passageiro.cs" t="Include" />
+          <e p="Viagem.cs" t="Include" />
+        </e>
+        <e p="FormCadastroPassageiros.cs" t="Include" />
+        <e p="FormCadastroPassageiros.Designer.cs" t="Include" />
+        <e p="FormCadastroPassageiros.resx" t="Include" />
+        <e p="FormCadastroViagens.cs" t="Include" />
+        <e p="FormCadastroViagens.Designer.cs" t="Include" />
+        <e p="FormCadastroViagens.resx" t="Include" />
+        <e p="FormListaPassageiros.cs" t="Include" />
+        <e p="FormListaPassageiros.Designer.cs" t="Include" />
+        <e p="FormListaPassageiros.resx" t="Include" />
+        <e p="FormPesquisaViagem.cs" t="Include" />
+        <e p="FormPesquisaViagem.Designer.cs" t="Include" />
+        <e p="FormPesquisaViagem.resx" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IPassageiro.cs" t="Include" />
+          <e p="IViagem.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="PrincipalForm.cs" t="Include" />
+        <e p="PrincipalForm.Designer.cs" t="Include" />
+        <e p="PrincipalForm.resx" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Prova-Suficiencia.csproj" t="IncludeRecursive" />
+        <e p="Resources" t="Include">
+          <e p="ListaViagens.json" t="Include" />
+        </e>
+      </e>
+      <e p="Prova-Suficiencia.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
